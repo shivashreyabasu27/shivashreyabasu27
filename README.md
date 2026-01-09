@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shreya 👋
+Data professional skilled in SQL, Power BI, and Snowflake. Passionate about building and maintaining ETL pipelines and enabling data-driven decisions.
 
-<!--
-**shivashreyabasu27/shivashreyabasu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- SQL, Python, MySQL
+- Snowflake, Matillion
+- Power BI, Excel
+- Git/GitHub, Jupyter, VS Code
 
-Here are some ideas to get you started:
+## 📂 Projects
+- [Data Warehouse to Power BI Analytics]([link](https://github.com/shivashreyabasu27/Retailstoreanalysis_Python_Snowflake_Pow))
+- [CustomerAnalysis_Python_Mysql_PowerBi]([link](https://github.com/shivashreyabasu27/Customertrendanalysis_Python_MySQL_PowerBI))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/shiva-shreya-b-8b22a8244/) | [Email](mailto:shreyareddybasu@gmail.com)
