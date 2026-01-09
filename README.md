@@ -8,8 +8,8 @@ Data professional skilled in SQL, Power BI, and Snowflake. Passionate about buil
 - Git/GitHub, Jupyter, VS Code
 
 ## 📂 Projects
-- [Data Warehouse to Power BI Analytics]([link](https://github.com/shivashreyabasu27/Retailstoreanalysis_Python_Snowflake_Pow))
-- [CustomerAnalysis_Python_Mysql_PowerBi]([link](https://github.com/shivashreyabasu27/Customertrendanalysis_Python_MySQL_PowerBI))
+- [Data Warehouse_to_Power BI Analytics](https://github.com/shivashreyabasu27/Retailstoreanalysis_Python_Snowflake_Pow)
+- [CustomerAnalysis_Python_Mysql_PowerBi](https://github.com/shivashreyabasu27/Customertrendanalysis_Python_MySQL_PowerBI)
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/shiva-shreya-b-8b22a8244/) | [Email](mailto:shreyareddybasu@gmail.com)
