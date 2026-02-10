@@ -8,6 +8,7 @@ Data professional skilled in SQL, Power BI, and Snowflake. Passionate about buil
 - Git/GitHub, Jupyter, VS Code
 
 ## 📂 Projects
+-[AWS_to_Snowflake_DBT_Dataengineerproject](https://github.com/shivashreyabasu27/DataEngineer_AWS_Snowflake_DBT_Project)
 - [Data Warehouse_to_Power BI Analytics](https://github.com/shivashreyabasu27/Retailstoreanalysis_Python_Snowflake_Powerbi)
 - [CustomerAnalysis_Python_Mysql_PowerBi](https://github.com/shivashreyabasu27/Customertrendanalysis_Python_MySQL_PowerBI)
 
